@@ -2,3 +2,6 @@ title: "Blog Pertama wan"
 description: "Selamat datang di blog pertamaku!"
 theme: minima
 author: iwan
+baseurl: "/blogerhitam"
+url: "https://webiwan.github.io"
+
